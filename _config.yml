@@ -11,4 +11,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.GitHub.com/dannyhubert9/">GitHub</a>  
   
-theme: jekyll-theme-hyde
+theme: jekyll-theme-minimal
