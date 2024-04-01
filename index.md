@@ -1,8 +1,9 @@
 ## About Me
 
-What's up? hey\|you
+Hi! My name is Danny Hubert.
 
-I am an awesome student at Lehigh, you should hire me!
+I am a Finance and Management major at Lehigh University, graduating on May 19, 2024. I am excited to bring a postiive attitude and commitment to excellence to Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education along with a minor in political science.
+
 
 <!-- Upload your own photo and change the path -->
 
@@ -46,15 +47,26 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+Starting at Wells Fargo in July, 2 year program
 
-Sell yourself!
+Pursue MBA before I turn 30 years old
+
+Work hard and be a positive contributor to all teams I’m a part of
+
+Provide deliverables far above expectation every single time
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Basketball (Miami Heat), Baseball (NY Yankees), Football (NY Giants)
+
+Music: Hip Hop & RnB
+
+Favorite Shows: Suits, Dragon Ball, HIMYM
+
+Problem Solving (and now coding thanks to Professor Bowen!)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
