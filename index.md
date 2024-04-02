@@ -4,15 +4,6 @@ Hi! My name is Danny Hubert.
 
 I am a Finance and Management major at Lehigh University, graduating on May 19, 2024. I am excited to bring a postiive attitude and commitment to excellence to Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education along with a minor in political science.
 
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
----
-
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
@@ -59,13 +50,31 @@ Provide deliverables far above expectation every single time
 
 ## Hobbies
 
-Basketball (Miami Heat), Baseball (NY Yankees), Football (NY Giants)
+Sports: Basketball (Miami Heat), Baseball (NY Yankees), Football (Penn State & NY Giants), Golf
 
 Music: Hip Hop & RnB
 
-Favorite Shows: Suits, Dragon Ball, HIMYM
+TV Shows: Suits, Dragon Ball, HIMYM
 
-Problem Solving (and now coding thanks to Professor Bowen!)
+Problem Solving...and now coding thanks to Professor Bowen!
+
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/heat.png" width="33%">
+</p>
+
+---
+
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/psu.png" width="33%">
+</p>
+
+---
+
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/golf.png" width="33%">
+</p>
+
+---
 
 
 ---
