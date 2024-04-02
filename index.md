@@ -59,19 +59,19 @@ TV Shows: Suits, Dragon Ball, HIMYM
 Problem Solving...and now coding thanks to Professor Bowen!
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/heat.png" width="33%">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/heat.jpg" width="33%">
 </p>
 
 ---
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/psu.png" width="33%">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/psu.jpg" width="33%">
 </p>
 
 ---
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/golf.png" width="33%">
+  <img class="img-circle" src="https://github.com/dannyhubert9/dannyhubert9.github.io/raw/master/images/golf.jpg" width="33%">
 </p>
 
 ---
