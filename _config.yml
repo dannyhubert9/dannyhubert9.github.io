@@ -6,7 +6,6 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
-<<<<<<< HEAD
 # Setup
 title:            Hyde
 tagline:          'A Jekyll theme'
@@ -18,26 +17,10 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-=======
-title: Danny Hubert # My name (& website title)
-logo: "/images/logo.jpg?raw=true" # my headshot photo
-description: > # links below
-  Welcome to my website! Please feel free to connect with me on Linkedin and view my Resume and Github below!
-  <br>
-  <a href="https://www.linkedin.com/in/dmhubert/">LinkedIn</a> 
-  <br>
-  <a href="https://drive.google.com/file/d/1yT-v8oHi27ipzWFWQMTq9QyQRntvzyvg/view?usp=drive_link" class="btn btn--info">Resume</a>  
-  <br>
-  <a href="https://www.GitHub.com/dannyhubert9/">GitHub</a>  
-  
->>>>>>> fe9d9e2d029c86a4dbcf61b43655536d639b9902
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-<<<<<<< HEAD
 
 github:
   repo:           https://github.com/poole/hyde
-=======
->>>>>>> fe9d9e2d029c86a4dbcf61b43655536d639b9902
