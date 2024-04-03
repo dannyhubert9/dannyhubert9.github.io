@@ -1,5 +1,5 @@
 title: Danny Hubert # My name (& website title)
-logo: "/images/logo.jpg?raw=true" # my headshot photo
+logo: "/images/logo.jpg?raw=true, width="10%"" # my headshot photo
 description: > # links below
   Welcome to my website! Please feel free to connect with me on Linkedin and view my Resume and Github below!
   <br>
