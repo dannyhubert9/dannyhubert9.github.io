@@ -2,6 +2,7 @@ title: Danny Hubert # My name (& website title)
 logo: "/images/logo.jpg?raw=true" # my headshot photo
 description: > # links below
   Welcome to my website! Please feel free to connect with me on Linkedin and view my Resume and Github below!
+  <br>
   <a href="https://www.linkedin.com/in/dmhubert/">LinkedIn</a> 
   <br>
   <a href="https://drive.google.com/file/d/1yT-v8oHi27ipzWFWQMTq9QyQRntvzyvg/view?usp=drive_link" class="btn btn--info">Resume</a>  
