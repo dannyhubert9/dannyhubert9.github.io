@@ -1,9 +1,6 @@
-title: Danny Hubert # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
+title: Danny Hubert # My name (& website title)
+logo: "/images/logo.jpg?raw=true" # my headshot photo
+description: > # links below
   <br><br>
   <a href="https://www.linkedin.com/in/dmhubert/">LinkedIn</a> 
   <br>
