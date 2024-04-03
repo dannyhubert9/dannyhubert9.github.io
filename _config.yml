@@ -1,3 +1,11 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 title: Danny Hubert # My name (& website title)
 logo: "/images/logo.jpg?raw=true" # my headshot photo
 description: > # links below
@@ -9,4 +17,7 @@ description: > # links below
   <br>
   <a href="https://www.GitHub.com/dannyhubert9/">GitHub</a>  
   
-theme: jekyll-theme-minimal
+paginate:         5
+
+# Custom vars
+version:          2.1.0
