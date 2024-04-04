@@ -1,6 +1,7 @@
 ## About Me
 
-<img src="/images/logo.jpg?raw=true"/>
+<p style="text-align:center;">
+  <img class="img-circle" src="/images/logo.jpg?raw=true" width="33%">
 
 Hi! My name is Danny Hubert.
 
