@@ -1,5 +1,7 @@
 ## About Me
 
+<img src="/images/logo.jpg?raw=true"/>
+
 Hi! My name is Danny Hubert.
 
 I am a Finance and Management major at Lehigh University, graduating on May 19, 2024. I am excited to bring a postiive attitude and commitment to excellence to Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education along with a minor in political science.
