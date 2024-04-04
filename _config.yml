@@ -1,5 +1,4 @@
 title: Danny Hubert # My name (& website title)
-logo: "/images/logo.jpg?raw=true" # my headshot photo
 description: > # links below
   Welcome to my website! Please feel free to connect with me on Linkedin and view my Resume and Github below!
   <br>
@@ -9,4 +8,4 @@ description: > # links below
   <br>
   <a href="https://www.GitHub.com/dannyhubert9/">GitHub</a>  
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
