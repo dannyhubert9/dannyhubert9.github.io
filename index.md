@@ -2,6 +2,7 @@
 
 <p style="text-align:center;">
   <img class="img-circle" src="/images/logo.jpg?raw=true" width="33%">
+</p>
 
 Hi! My name is Danny Hubert.
 
