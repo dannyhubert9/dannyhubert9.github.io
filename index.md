@@ -6,7 +6,16 @@
 
 Hi! My name is Danny Hubert.
 
-I am a Finance and Management major at Lehigh University, graduating on May 19, 2024. I am excited to bring a postiive attitude and commitment to excellence to Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education along with a minor in political science.
+I am a Finance and Management major at Lehigh University, graduating on May 19, 2024. I am excited to bring a postiive attitude and commitment to excellence to Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education while exploring many of my personal pursuits as well. 
+
+**Some of my experiences include:**
+*Internships with law firms, startups, and Fidelity Investments*
+*A degree in Spring 2024 with a double major in Finance and Management; along with a Political Science Minor*
+*Being named "Livingston Youth Citizen of the Year" in 2019*
+*Being an editor for a newspaper; a writer for multiple mediums*
+*Serving in numerous leadership positions, including President of my high school's largest club and Treasurer of Lehigh's Accounting Club*
+*Living in Bethlehem, Boston, Barcelona, The Berkshires, Boca Raton, Costa Rica, Tel Aviv, Livingston, and (soon) Charlotte*
+*Living through the Miami Heat 2023-2024 Season (seriously, it's be a rough season for last year's ECF champs)*
 
 ## Portfolio
 
@@ -56,9 +65,11 @@ Provide deliverables far above expectation every single time
 
 Sports: Basketball (Miami Heat), Baseball (NY Yankees), Football (Penn State & NY Giants), Golf
 
-Music: Hip Hop & RnB
+Music: Hip-Hop and R&B (Logic, Kendrick Lamar, J. Cole, J.I.D.)
 
-TV Shows: Suits, Dragon Ball, HIMYM
+TV Shows: Suits, Dragon Ball, Last Week Tonight with John Oliver, HIMYM, Avatar: The Last Airbender, Brooklyn 99
+
+Other Media Interests: "The Hoop Collective," "GPS," Mr. Beast, JJ Redick Podcasts, Tobin and Leroy Radio Show
 
 Problem Solving...and now coding thanks to Professor Bowen!
 
