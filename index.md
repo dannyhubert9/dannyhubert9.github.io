@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---  
+
 ## About Me
 
 <p style="text-align:center;">
