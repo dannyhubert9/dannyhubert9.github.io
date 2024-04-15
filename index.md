@@ -26,31 +26,32 @@ I am a Finance and Management major at Lehigh University, graduating on May 19, 
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+_**[Final Project](midterm_summary)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[FIN 337 Final Presentation](/pdf/sample_presentation.pdf)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[POLS 230 Final Paper](/pdf/sample_presentation.pdf)**_
+
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+_**[MGT 306 Final Deliverable](/pdf/sample_presentation.pdf)**_
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+_**[MGT 346 Hot Topic Presentation](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
