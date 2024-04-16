@@ -1,22 +1,20 @@
 ## Danny Hubert Personal Website
 
 ### Introduction
+This repository contains the source code for my personal website, which serves as a central hub for my online presence. Whether you're here to explore my projects, read my "About Me" section, or simply get to know me better, you'll find everything you need right here.
 
 <img src="images/demo.gif?raw=true"/>
-### FIX PICTURE HERE
-
+# FIX PICTURE HERE
 
 ### Features
-### Technologies Used
-### Usage & Setup
+- "About Me" Section with future goals
+- A Portfolio containing recent projects from Lehigh University courses.
+- Career Objectives List
+- Hobbies List
 
-- Bulleted
-- List
+### Usage
+Feel free to explore the website by navigating through the different sections:
+1. _Projects_: Click on project tiles to view project details and demos.
+2. _About Me_: Learn more about me, my background, my interests, and my skills.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
