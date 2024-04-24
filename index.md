@@ -4,19 +4,16 @@
   <img class="img-circle" src="/images/logo.jpg?raw=true" width="33%">
 </p>
 
-Hi! My name is Danny Hubert.
-
-I am a Finance and Management major at Lehigh University, graduating in May 2024. I am excited to bring a postiive attitude and commitment to excellence at Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education while exploring many of my personal interests as well. 
+Hey there! I'm Danny Hubert, currently pursuing a dual major in Finance and Management at Lehigh University, with an anticipated graduation in May 2024. I am excited to bring a postiive attitude and commitment to excellence at Wells Fargo post-graduation in their Operations Development Program. At Lehigh University, I’ve been able to have a well rounded experience of financial and business education while exploring many of my personal interests as well. 
 
 **Some of my experiences include:**
-
-- *Internships with law firms, startups, and Fidelity Investments*
-- *A degree in Spring 2024 with a double major in Finance and Management; along with a Political Science Minor*
-- *Being named "Livingston Youth Citizen of the Year" in 2019*
-- *Being an editor for a newspaper; a writer for multiple mediums*
-- *Serving in numerous leadership positions, including President of my high school's largest club and Treasurer of Lehigh's Accounting Club*
-- *Living in Bethlehem, Boston, Barcelona, The Berkshires, Boca Raton, Costa Rica, Tel Aviv, Livingston, and (soon) Charlotte*
-- *Living through the Miami Heat 2023-2024 Season (seriously, it's be a rough season for last year's ECF champs)*
+- **Internship Ventures:** From law firms to startups, and from Fidelity Investments to entrepreneurial endeavors, I've savored a spectrum of professional experiences.
+- **Academic Milestones:** Anticipating a dual major in Finance and Management, coupled with a minor in Political Science upon my graduation in Spring 2024.
+- **Community Recognition:** Honored as the "Livingston Youth Citizen of the Year" in 2019, highlighting my commitment to civic engagement runs deep.
+- **Creative Pursuits:** Whether shaping narratives as an editor for a newspaper or crafting content across various mediums, storytelling is my passion.
+- **Leadership Odyssey:** From presiding over my high school's largest club to stewarding as Treasurer of Lehigh's Accounting Club, I thrive in leadership roles.
+- **Global Travels:** My journey spans Bethlehem to Barcelona, Boston to Boca Raton, and beyond, each destination enriching my perspective and providing me with countless memories.
+- **Sports Enthusiast:** Endured the highs and lows of the Miami Heat's 2023-2024 season, a true test of resilience for last year's ECF champions.
 
 ## Portfolio
 
