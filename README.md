@@ -1,51 +1,20 @@
-## Developer Portfolio Landing Page Template
+## Danny Hubert Personal Website
 
 ### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This repository contains the source code for my personal website, which serves as a central hub for my online presence. Whether you're here to explore my projects, read my "About Me" section, or simply get to know me better, you'll find everything you need right here.
 
 <img src="images/demo.gif?raw=true"/>
+# FIX PICTURE HERE
 
-### Installation
+### Features
+- "About Me" Section with future goals
+- A Portfolio containing recent projects from Lehigh University courses.
+- Career Objectives List
+- Hobbies List
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### Usage
+Feel free to explore the website by navigating through the different sections:
+1. _Projects_: Click on project tiles to view project details and demos.
+2. _About Me_: Learn more about me, my background, my interests, and my skills.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
