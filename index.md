@@ -43,16 +43,11 @@ _**[MGT 346 Hot Topic Presentation](/projects/MGT346_hottopicpresentation.pdf)**
 ---
 
 ## Career Objectives
-
-- Starting at Wells Fargo in July, 2 year program.
-- Pursue an MBA before I turn 30 years old.
-- Work hard and be a positive contributor to all my teams.
-- Provide deliverables far above expectation every single time.
+As I embark on my journey at Wells Fargo in July, I am eager to immerse myself in their dynamic environment through their esteemed 2-year program. My overarching goal is to leverage this experience as a stepping stone towards pursuing an MBA before reaching the milestone of turning 30. Driven by a commitment to excellence, I aim to be an invaluable asset to every team I collaborate with. Through dedication and a proactive approach, I aspire to consistently exceed expectations and deliver exceptional results, setting a high standard for myself and inspiring others around me.
 
 ---
 
 ## Hobbies
-
 - Sports: Basketball (Miami Heat), Baseball (NY Yankees), Football (Penn State & NY Giants), Golf.
 - Music: Hip-Hop and R&B (Logic, Kendrick Lamar, J. Cole, J.I.D.).
 - TV Shows: Suits, Dragon Ball, Last Week Tonight with John Oliver, HIMYM, Avatar: The Last Airbender, Brooklyn 99.
