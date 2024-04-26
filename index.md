@@ -17,12 +17,6 @@ Hey there! I'm Danny Hubert, currently pursuing a dual major in Finance and Mana
 
 ## Portfolio
 
-_**[Final Project](midterm_summary)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[FIN 337 Final Presentation](/projects/FIN337_finalpresentation.pdf)**_
 
 
@@ -33,7 +27,7 @@ _**[FIN 337 Final Presentation](/projects/FIN337_finalpresentation.pdf)**_
 _**[POLS 230 Final Paper](/pdf/sample_presentation.pdf)**_
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tm.jpg?raw=true"/>
 
 ---
 _**[MGT 306 Final Deliverable](/projects/MGT306_finalpresentation.pdf)**_
