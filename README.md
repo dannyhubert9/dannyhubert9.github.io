@@ -3,8 +3,7 @@
 ### Introduction
 This repository contains the source code for my personal website, which serves as a central hub for my online presence. Whether you're here to explore my projects, read my "About Me" section, or simply get to know me better, you'll find everything you need right here.
 
-<img src="images/demo.gif?raw=true"/>
-# FIX PICTURE HERE
+<img src="images/grad.jpg?raw=true"/>
 
 ### Features
 - "About Me" Section with future goals
