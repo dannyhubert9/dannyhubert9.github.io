@@ -37,6 +37,7 @@ _**[MGT 346 Hot Topic Presentation](/projects/MGT346_hottopicpresentation.pdf)**
 
 ## Other Projects
 _**[MGT 314 Final Project](Project.md)**_
+
 _**[POLS 230 Final Paper](/pdf/sample_presentation.pdf)**_
 
 ---
