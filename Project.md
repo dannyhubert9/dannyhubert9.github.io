@@ -1,9 +1,6 @@
-# MAKE SURE THIS IS LINKED TO index.md
+# UPDATE THIS ASAP (add some pictures, finalize everything)
 
-# UPDATE THIS ASAP (make it more interesting, add some pictures, etc)
-
-
-# VSE Inc. Consulting Project
+# VSE Inc. Consulting Project - Spring 2024 (MGT 314)
 
 ## Overview
 Our consulting engagement with VSE Inc. focuses on leveraging AI technology to enhance market strategy and operational efficiency. The project aims to explore the potential of AI-driven psychics to revolutionize client interactions and provide valuable insights through data analysis.
