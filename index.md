@@ -23,13 +23,6 @@ _**[FIN 337 Final Presentation](/projects/FIN337_finalpresentation.pdf)**_
 <img src="images/FIN337.png?raw=true"/>
 
 ---
-
-_**[POLS 230 Final Paper](/pdf/sample_presentation.pdf)**_
-
-
-<img src="images/tm.jpg?raw=true"/>
-
----
 _**[MGT 306 Final Deliverable](/projects/MGT306_finalpresentation.pdf)**_
 
 <img src="images/MGT306.png?raw=true"/>
@@ -39,6 +32,12 @@ _**[MGT 306 Final Deliverable](/projects/MGT306_finalpresentation.pdf)**_
 _**[MGT 346 Hot Topic Presentation](/projects/MGT346_hottopicpresentation.pdf)**_
 
 <img src="images/MGT346.png?raw=true"/>
+
+---
+
+## Other Projects
+_**[MGT 314 Final Project](Project.md)**_
+_**[POLS 230 Final Paper](/pdf/sample_presentation.pdf)**_
 
 ---
 
