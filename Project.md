@@ -1,5 +1,3 @@
-# UPDATE THIS ASAP (add some pictures, finalize everything)
-
 # VSE Inc. Consulting Project - Spring 2024 (MGT 314)
 
 ## Overview
